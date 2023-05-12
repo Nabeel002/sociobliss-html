@@ -5,6 +5,7 @@
     font-family: "Abel", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
         Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     list-style: none;
+    overflow-x: hidden;
 }
 
 /* navigation bar */
