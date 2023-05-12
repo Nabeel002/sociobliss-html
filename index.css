@@ -8,8 +8,12 @@
 }
 
 
-body{
+body,
+html {
     overflow-x: hidden;
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 /* navigation bar */
 
@@ -588,9 +592,7 @@ transform: translateY(0);
 
 #hamburger{display: none;}
 @media only  screen and (width <= 700px) {
-    body{
-        overflow-x: hidden;
-    }
+   
     
     #hamburger{
         display: block;
@@ -670,7 +672,7 @@ transform: translateY(0);
 
 .image-holder {
     height: 11em;
-        width: 21em;
+        width: 22.7em;
         position: relative;
 }
 
