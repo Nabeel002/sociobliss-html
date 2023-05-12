@@ -27,7 +27,7 @@ function sliding() {
 const sliders=document.querySelectorAll(".slide-in")
 const appearOptions={
     threshold:0,
-    rootMargin:"0px 0px -90px 0px"
+    rootMargin:"0px 0px -100px 0px"
 
 }
 
